@@ -6,6 +6,9 @@ Author-email: rajdeepmatrix2004@gmail.com
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: catboost
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
